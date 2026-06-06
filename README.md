@@ -13,7 +13,7 @@ Desarrolladora full-stack con un enfoque `polyglot` — elijo la herramienta cor
 
 ## Stack principal
 
-`Python` `Java` `TypeScript` `Go` `Rust` `C++` `Ruby on Rails` `Tailwind CSS` `SQL / NoSQL` `PostgreSQL` `Redis` `Docker`
+`Python` `Java` `TypeScript` `Go` `Rust` `C++` `Ruby on Rails` `Tailwind CSS` `SQL / NoSQL` `PostgreSQL` `Redis` `Docker` `Elixir/Erlang` `Malbolge` `Pascal` `Quantum Convict` `K / J / APL` `Prolog` `Forth` `Haskell` `Lisp / Clojure`
 
 ---
 
